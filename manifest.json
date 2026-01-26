@@ -1,0 +1,1126 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://behavior.kaijusolutions.ca/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://behavior.kaijusolutions.ca/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/Kaiju-Agents-Behavior/Kaiju-Agents-Behavior/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Actuators.KaijuActuatorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Actuators.KaijuActuatorAction.html",
+          "hash": "158sFMrHXtwQxXwuhuzHh7BkUIwOsMrxuZybROU0/kA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Actuators.KaijuEndActuatorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Actuators.KaijuEndActuatorAction.html",
+          "hash": "pWgwXCqdAVtGCaVr9U8lk6xyDLLBsCmGweYzPBOlzzg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Actuators.KaijuRunActuatorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Actuators.KaijuRunActuatorAction.html",
+          "hash": "5Ik12vbK2G7RmdvRNwt+0okDi89e1G9ElK/g9/gTvYU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Actuators.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Actuators.html",
+          "hash": "u+fQMV3ZCLbqAdkExxFGEcAY2lNrHkL0uoFeOvXHfu4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.AmmoVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.AmmoVisionSensorAction.html",
+          "hash": "hzZVnyfxKMgGe2M6G41O7SmElApTfdM4X/w6zaA3bGI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.FlagVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.FlagVisionSensorAction.html",
+          "hash": "R2KjHZwDpaLdiDB+eJPnbmdMS07g6+vOXUv/Nj87/oA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.HealthVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.HealthVisionSensorAction.html",
+          "hash": "7I+zT8ARlGnbNHhWvFZA3X2OTCt7+nvoZd8pUulUKsE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadFlagAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadFlagAction.html",
+          "hash": "MBl0ESzO8UKxg57MppFTKIr4szLh5pQO/Fjd+PW1Sco="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadFlagCarriedAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadFlagCarriedAction.html",
+          "hash": "TMzlEfOMDThKxFCUCGgMWIFZkucMTyNfChu85DOBBdY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadFlagHomeAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadFlagHomeAction.html",
+          "hash": "JpgpHh/tkyJCqhgCI9oktXBJDTRlD5nDREDwa3uedXM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadFlagTeamAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadFlagTeamAction.html",
+          "hash": "kWqON0IhEW4jAl5OZCnKqWRtLPJsuEGTN9RbB1dAC0Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperAction.html",
+          "hash": "9LANiscxHkHZZKJ4UwOE/jo0qhpO+nNSvCbgwS0eknY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperAmmoAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperAmmoAction.html",
+          "hash": "dAFbXmfjX/S+7XqPa6peUjvhicD7PTmazrr1YK2YATw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperCanAttackAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperCanAttackAction.html",
+          "hash": "OGsBHwv40UxFk1ItT4sX3+pronVG9dHXj+NF8W1cVi8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperHasAmmoAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperHasAmmoAction.html",
+          "hash": "HPLj6i9NMYCeYG8xQzWnmtOl0x2AqrKLhOpOhzA+JhA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperHealthAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperHealthAction.html",
+          "hash": "+sU65vHlwasg6sF+pPk/eQt47REPpCBUhpPlRtjTUdg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperTeamAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.ReadTrooperTeamAction.html",
+          "hash": "8ggmHaTzr01MzDQd1my17N7GYuGsIaawJI5nZml/MOc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.TrooperVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.TrooperVisionSensorAction.html",
+          "hash": "7GFlWFC3GvJ7nJkfnDcgR4ltOv+B/uS4a+ruFeHkPOg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.CTF.html",
+          "hash": "7JMpFoj1mfRcCqQwCRpWUVwMr9PmzRoyuIStw9F3dA4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.EnergyVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.EnergyVisionSensorAction.html",
+          "hash": "mJioknYagI6DkCrCy6c4X1c8kAsKXoRbbrDVGNVXgNs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.FilterMicrobeVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.FilterMicrobeVisionSensorAction.html",
+          "hash": "vTYwG9U10X+MKgcfSQNcJQOwFXPRk8Ros58NpfBT0k0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.FoodVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.FoodVisionSensorAction.html",
+          "hash": "OTnFH7N3Prs9HhtQS6O/7mufy85fc3Zkk399wwcvBcM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.MateVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.MateVisionSensorAction.html",
+          "hash": "2rGPk1gxSESh9xE8lPyDx2SJy/Y8iel0XIw+z4QCbUs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.MicrobeVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.MicrobeVisionSensorAction.html",
+          "hash": "KOE3n3Z2UKdK0kAsF7ZBhHw+ZUHtDeDyAM8IyswSXLE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.ReadMicrobeAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.ReadMicrobeAction.html",
+          "hash": "cVmFKoeB8V4HWFYZy3GpRP78PdJi+jb5VW10xRfnSSE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.ReadMicrobeCooldownAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.ReadMicrobeCooldownAction.html",
+          "hash": "JzgZnEBi7WnTlUvq4+XCS3uJ+MM+zm0Lq9h8tJcxV3c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.ReadMicrobeCooldownTimeAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.ReadMicrobeCooldownTimeAction.html",
+          "hash": "XpHxvYE7Tym2e1p3c28flTpybNxtcnpbv0VzPBasuXQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.ReadMicrobeEnergyAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.ReadMicrobeEnergyAction.html",
+          "hash": "ccfss+1wF+U76hFJerU6ivx4GZ5A4KREoLJCX2typNo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Exercises.Microbes.html",
+          "hash": "sUzLKRxjAvdtk5ranq8LVNZn1NXZ0/VpqkFKsB54Zv0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuAddIdentifierAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuAddIdentifierAction.html",
+          "hash": "E9MIFsHYmdRG0EUwJBK6NDJTJeqpDD8W7gfatduSneg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuAgentGraphAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuAgentGraphAction.html",
+          "hash": "+99Kyflk/Iy5BxaVSV4SBJ/+Krv8c+wGmxRIiNOkSag="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuClearIdentifiersAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuClearIdentifiersAction.html",
+          "hash": "XE5TrAdm97u/SKcgX5gWC6ZQsLYDTkJ6LGsxBzuTkLY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuHasIdentifierAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuHasIdentifierAction.html",
+          "hash": "UgwnBJmQdQgZkz8ev+qek7m6NTkIMjJw2ZKgvIvceug="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuIdentifierAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuIdentifierAction.html",
+          "hash": "xEBW5Hll/k1CEhJFf77JbBI9BjK3mqTLd8eySr+3eRU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuModifyIdentifierAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuModifyIdentifierAction.html",
+          "hash": "2KiwFqPYRz9RqNnFjP4W3024o5FsiwxMMbSHeXLFHDs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuRemoveIdentifierAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuRemoveIdentifierAction.html",
+          "hash": "C2/drDKWXAcKKC4dTjPa7BC9hz0OFGoaKlJDATfXg0I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuSetIdentifierAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.KaijuSetIdentifierAction.html",
+          "hash": "hCHl6qsufo50K80Yy8dJLp4gxAaiPQBg8Fj8TJUm+no="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuAutoLookAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuAutoLookAction.html",
+          "hash": "7wbblNDtceTofdw7KbLC+Gxy728wEs4//UPqk+CVPso="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuConfigurationAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuConfigurationAction.html",
+          "hash": "2dA0noFLgsOs6MIXDupcf7eZmZgqfvNTxPU0fUtrLYE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuEvadeAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuEvadeAction.html",
+          "hash": "xge7bXffOypQXfwJielMsu1aWr6fBK8frUoDtyn8YaU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuFleeAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuFleeAction.html",
+          "hash": "LuDNbcvNiO7q7s+Usm6se8p8K47dSbl1cvBMK/mPWX4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuLookAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuLookAction.html",
+          "hash": "c26sjIZPipe9Lf57zhXJV9WzxYq3LGeLBN7OjNQLOP0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuLookSpeedAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuLookSpeedAction.html",
+          "hash": "PG7J0yKWxl+3tmVVLlYm+XnWO4sgDXnlVfzWBHeIetU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuMoveAccelerationAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuMoveAccelerationAction.html",
+          "hash": "nsx08DwJkbrlDW33lcHQVKk9Uc5Dpdg+HNVZbr2mR84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuMoveSpeedAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuMoveSpeedAction.html",
+          "hash": "MzgXGTwu5stH/Jy7rgrezcwCnraqx45xVZp1unRbhCE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuMovementAction-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuMovementAction-1.html",
+          "hash": "ygW2Tyx2IBgY2dxtVBBny6hJ1ihAGY8+o/5StRtGJv4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuMovementReference.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuMovementReference.html",
+          "hash": "Lyf+S0FbUYkwQOUcP0GiufvBoxotsMxnRVsxOYlp3iI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuObstacleAvoidanceAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuObstacleAvoidanceAction.html",
+          "hash": "ySLsM1K69m3fE5YU3OC2+Gi6Ft3R/5M084A8Drqa5t0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuPathFollowAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuPathFollowAction.html",
+          "hash": "eN7WD5E4CimumjbfVjuxTKdsxa9qUTAWdRIm5GiPZ30="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuPursueAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuPursueAction.html",
+          "hash": "fujEXGYuCO5gmREFf8MlsqBUlXSL08XSrhq/DNqb4Og="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuSeekAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuSeekAction.html",
+          "hash": "19D78DnY4+oOOQnPi529d41e4h/tlvmlJjfrUxqZOFs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuSeparationAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuSeparationAction.html",
+          "hash": "SgXrPG3nQ3+gKVW4+vG0+8hCq/GpQ5Jf8zVadIeHlDc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopAction.html",
+          "hash": "63wNzA7hh36Qqw0NHnQx2ak9bH+5qDpQbHmOJJhYnmI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopEvadeAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopEvadeAction.html",
+          "hash": "P3YGPA1+pEI21B1eaAh/Ui7jpUKdBgk8l5REcYottnM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopFleeAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopFleeAction.html",
+          "hash": "J093L2fyxrwDRrW4mIiEd9kqFgdLbkz3+hxuejZQm2c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopLookAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopLookAction.html",
+          "hash": "QBe9Efv0ZtDW6kAdmOpmyR7TkfUlUaMYxwtWw0i36rM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopMovementAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopMovementAction.html",
+          "hash": "jOhph19S77EsT7IxOPqVgrafKuIJ5dHtw3CQy211xAY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopObstacleAvoidanceAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopObstacleAvoidanceAction.html",
+          "hash": "zdIqS+czqUMD23Cw3ESg2eBo6/nZfN5gKAmXaSuI0i8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopPathFollowAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopPathFollowAction.html",
+          "hash": "kslp5nRJM6YrjZj7suj8aZEXbmDr5vv7AAJQA2MUNkI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopPursueAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopPursueAction.html",
+          "hash": "CB9Nis82uHHoAOEF0XKw7CySxY9fqLGnqM/vKZo9EuM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopSeekAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopSeekAction.html",
+          "hash": "wO/pUvx9v0+zLTaTh03sU1OHh2SWYlS4BjpvrrvfhBQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopSeparationAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopSeparationAction.html",
+          "hash": "5pyORUehYgWwkPRTbSMs/7knXgiudPhRIPXqpQTfw+k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopTypeAction-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopTypeAction-1.html",
+          "hash": "hvz0ig6j6W62RgU5JpMw58btr/F9amLjV3a9/4K4zC0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopWanderAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuStopWanderAction.html",
+          "hash": "bOhglo6ayvh10Lw3QoQl4lg54qGPcIvOPWf8Ugga4w8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuTargetMovementAction-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuTargetMovementAction-1.html",
+          "hash": "obUtvevKHBykEmuQ7M/P4jn8IKJvlnP134vs9vio8pA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuTeleportAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuTeleportAction.html",
+          "hash": "8WHKZpdF56Fl12OTyT9CI1foddAo1i2b7Nek3bmUGrU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuWanderAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.KaijuWanderAction.html",
+          "hash": "yOAR5piO5FAqzD+YlY9xAP40M4DXnjcrJgTdmUXsnZg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Movement.html",
+          "hash": "7HI8J6dNnqDaDCzQWUzvX1w8ZAgqW5wL0uF6QXImTxU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuAgentsVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuAgentsVisionSensorAction.html",
+          "hash": "9hIr78Ga8am3QJsl0Mg6CfQViY5hnfV5Rzah7BD2CXA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuCastSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuCastSensorAction.html",
+          "hash": "sFFKP0cc87M2oTmpurcsKLQUXnzEgGJPSZXoDdgCjXU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuEverythingVisionSensorAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuEverythingVisionSensorAction.html",
+          "hash": "1Ljltwzkdtjqx4WhdQzmn8a+HRNGzlTter62yQChL94="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuSensorAction-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuSensorAction-2.html",
+          "hash": "0zqZZuRoFDL8v1sEBZD49RkFYDc4ZYdG7dzqwNz3JHw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuSensorMultipleAction-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuSensorMultipleAction-2.html",
+          "hash": "FjSAQnX8vBw2FPhqRHInLIIdByCZ3aJ4V789zZe7Wl8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuSensorMultipleComponentAction-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuSensorMultipleComponentAction-2.html",
+          "hash": "kpwAPT/EBubbqkPGdoR/i0rYHuC63WSi9C8lO6cMLEI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuSensorMultipleGameObjectAction-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuSensorMultipleGameObjectAction-1.html",
+          "hash": "39/Fr9KvRRp2fTe8yOJSWzNUrc7H0LaGrEdlL+rKI8g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuVisionSensorAction-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.KaijuVisionSensorAction-2.html",
+          "hash": "StajqLhFZRHenZ/EoJ/5vwF9g6twcKaahZj2WyqanhM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.Sensors.html",
+          "hash": "1E8zlR7PP5m68m+G6EyBo2oRRu9en53Ql0L4G7NMBIQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/KaijuSolutions.Agents.Behavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/KaijuSolutions.Agents.Behavior.html",
+          "hash": "8U/4G3Z6OWMoelQVi41FLIrYubFTKK419Kezl7RSues="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "NuYXM4eFWYtA/B9gQtrOg+MdBEgM6Jcrgpx4ILgZECA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "changelog/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "changelog/index.html",
+          "hash": "/DUB/Ssm93LpkXv4cXHMqBRIcma1Vqfk2loPx0EXefA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contact/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "contact/index.html",
+          "hash": "2yxJKh9prRPtgVCrrYVRdw/Y0Rsi0OfRnmGawGrOPGM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "img/box-destroyer.png",
+      "output": {
+        "resource": {
+          "relative_path": "img/box-destroyer.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "hDFEP0rhVA8roYdm5MN6x0/iOrVMbU3+aEfM5y9K24c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "license/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "license/index.html",
+          "hash": "nPY86hG3yO+qahTAf5slfLwbxf5Kzh3M9dBAIBKj2xg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "8OziDt9XsbAehNig3JC1zGolSd/BGT2QaixsvKgAMoA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 84,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
