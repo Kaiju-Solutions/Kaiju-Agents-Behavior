@@ -1,0 +1,6 @@
+﻿KaijuSolutions.Agents.Behavior
+KaijuSolutions.Agents.Behavior.Movement
+KaijuSolutions.Agents.Behavior.Sensors
+KaijuSolutions.Agents.Behavior.Actuators
+KaijuSolutions.Agents.Behavior.Exercises.Microbes
+KaijuSolutions.Agents.Behavior.Exercises.CTF

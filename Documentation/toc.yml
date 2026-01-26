@@ -1,0 +1,12 @@
+- name: Scripting API
+  href: api/
+- name: Changelog
+  href: changelog/index.html
+- name: License
+  href: license/index.html
+- name: Contact
+  href: contact/index.html
+- name: GitHub
+  href: https://github.com/Kaiju-Solutions/Kaiju-Agents-Behavior
+- name: Kaiju Agents
+  href: https://agents.kaijusolutions.ca

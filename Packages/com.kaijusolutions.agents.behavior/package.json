@@ -1,0 +1,54 @@
+{
+    "name": "com.kaijusolutions.agents.behavior",
+    "displayName":"Kaiju Agents Behavior",
+    "version": "1.0.0",
+    "unity": "6000.3",
+    "description": "Integration for the Unity Behavior package with Kaiju Agents.",
+    "dependencies": {
+        "com.unity.behavior": "1.0.14",
+        "com.kaijusolutions.agents": "1.0.4"
+    },
+    "author": {
+        "name": "Kaiju Solutions Inc.",
+        "url": "http://kaijusolutions.ca",
+        "email": "contact@kaijusolutions.ca"
+    },
+    "changelogUrl": "https://behavior.kaijusolutions.ca/changelog",
+    "documentationUrl": "https://behavior.kaijusolutions.ca",
+    "licensesUrl": "https://behavior.kaijusolutions.ca/license",
+    "license": "MIT License",
+    "keywords": [
+        "Kaiju Solutions",
+        "Agents",
+        "AI",
+        "Artificial Intelligence",
+        "Steering Behaviours",
+        "Navigation",
+        "Pathfinding",
+        "Sensors",
+        "Actuators",
+        "Behavior",
+        "Behaviour",
+        "Tree",
+        "Graph",
+        "Behavior Tree",
+        "Behaviour Tree",
+        "Behavior Graph",
+        "Behaviour Graph"
+    ],
+    "samples": [
+        {
+            "displayName": "Box Destroyer",
+            "description": "Behavior integrations for the \"Box Destroyer\" sample.\n\nYou must also import the \"Box Destroyer\" and \"Materials\" samples from the core Kaiju Agents package for this to work.",
+            "path": "Samples~/Box Destroyer"
+        },{
+            "displayName": "Exercise 2 - Microbes",
+            "description": "Behavior integrations for the \"Microbes\" exercise.\n\nYou must also import the \"Microbes\" exercise and \"Materials\" sample from the core Kaiju Agents package for this to work.",
+            "path": "Samples~/Exercise 2 - Microbes"
+        },{
+            "displayName": "Exercise 3 - Capture the Flag",
+            "description": "Behavior integrations for the \"Capture the Flag\" exercise.\n\nYou must also import the \"Capture the Flag\" exercise and \"Materials\" sample from the core Kaiju Agents package for this to work.",
+            "path": "Samples~/Exercise 3 - Capture the Flag"
+        }
+    ]
+}
