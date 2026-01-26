@@ -1,0 +1,17 @@
+{
+    "name": "com.kaijusolutions.agents.behavior",
+    "references": [
+        "com.kaijusolutions.agents",
+        "Unity.Behavior",
+        "Unity.Behavior.SerializableGUID"
+	],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

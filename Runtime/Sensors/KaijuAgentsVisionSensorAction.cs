@@ -1,0 +1,22 @@
+﻿using System;
+using KaijuSolutions.Agents.Sensors;
+using Unity.Behavior;
+using Unity.Properties;
+
+namespace KaijuSolutions.Agents.Behavior.Sensors
+{
+    /// <summary>
+    /// Action to sense with a <see cref="KaijuAgentsVisionSensor"/> which could have multiple readings of <see cref="KaijuAgent"/>s.
+    /// </summary>
+    [Serializable]
+    [GeneratePropertyBag]
+    [NodeDescription(
+        name: "Agents Vision Sense",
+        story: "See [observed] with agents [sensor].",
+        description: "Sense for any transform using an agents vision sensor. If the sensor is not assigned, will try to find the first sensor of this type on of the first agent variable found.",
+        category: "Kaiju Agents/Sensors",
+        id: "9e202450dff3a82616371d1145413750",
+        icon: "Packages/com.kaijusolutions.agents.behavior/Editor/Icon.png")
+    ]
+    public class KaijuAgentsVisionSensorAction : KaijuVisionSensorAction<KaijuAgentsVisionSensor, KaijuAgent> { }
+}
