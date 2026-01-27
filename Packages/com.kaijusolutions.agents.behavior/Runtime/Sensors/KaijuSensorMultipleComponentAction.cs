@@ -8,7 +8,7 @@ using UnityEngine;
 namespace KaijuSolutions.Agents.Behavior.Sensors
 {
     /// <summary>
-    /// Action to sense with a <see cref="KaijuSensor"/> which could have multiple readings of components.
+    /// Action to sense with a sensor which could have multiple readings of components.
     /// </summary>
     [Serializable]
     [GeneratePropertyBag]

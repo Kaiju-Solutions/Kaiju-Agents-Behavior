@@ -15,7 +15,7 @@ namespace KaijuSolutions.Agents.Behavior
     public abstract class KaijuAgentGraphAction : Action
     {
         /// <summary>
-        /// The <see cref="KaijuAgent"/> this is for.
+        /// The agent this is for.
         /// </summary>
         [Tooltip("The agent this is for. If it is not assigned, it will try to find an agent variable. If none are found, it will try to find an agent attached to any other component and create a variable from it.")]
         [SerializeReference]

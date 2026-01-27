@@ -6,7 +6,7 @@ using Unity.Properties;
 namespace KaijuSolutions.Agents.Behavior.Sensors
 {
     /// <summary>
-    /// Action to sense with a <see cref="KaijuAgentsVisionSensor"/> which could have multiple readings of <see cref="KaijuAgent"/>s.
+    /// Action to sense with an agents vision sensor which could have multiple readings of agents.
     /// </summary>
     [Serializable]
     [GeneratePropertyBag]

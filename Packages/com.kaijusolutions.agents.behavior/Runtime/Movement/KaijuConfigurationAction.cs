@@ -22,7 +22,7 @@ namespace KaijuSolutions.Agents.Behavior.Movement
     public class KaijuConfigurationAction : KaijuAgentGraphAction
     {
         /// <summary>
-        /// The <see cref="KaijuMovementConfiguration"/> to set.
+        /// The movement configuration to set.
         /// </summary>
         [Tooltip("Move movement configuration to set.")]
         [SerializeReference]

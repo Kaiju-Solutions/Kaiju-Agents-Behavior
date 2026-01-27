@@ -15,7 +15,7 @@ namespace KaijuSolutions.Agents.Behavior.Movement
     public abstract class KaijuMovementAction<T> : KaijuAgentGraphAction where T : KaijuMovement
     {
         /// <summary>
-        /// The <see cref="KaijuMovementConfiguration"/> to use.
+        /// The movement configuration to use.
         /// </summary>
         [Tooltip("The movement configuration to use. If not assigned, it will use the one assigned to the agent, which itself will fallback to default values if none is assigned.")]
         [SerializeReference]
