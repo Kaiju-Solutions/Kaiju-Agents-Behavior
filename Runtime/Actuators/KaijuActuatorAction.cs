@@ -10,14 +10,14 @@ using Action = Unity.Behavior.Action;
 namespace KaijuSolutions.Agents.Behavior.Actuators
 {
     /// <summary>
-    /// Base class for <see cref="KaijuActuator"/> actions.
+    /// Base class for actuator actions.
     /// </summary>
     [Serializable]
     [GeneratePropertyBag]
     public abstract class KaijuActuatorAction : Action
     {
         /// <summary>
-        /// The <see cref="KaijuActuator"/> this is for.
+        /// The actuator this is for.
         /// </summary>
         [Tooltip("The actuator. If not assigned, will try to find the first actuator of the first agent variable found.")]
         [SerializeReference]

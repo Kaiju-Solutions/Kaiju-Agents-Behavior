@@ -8,19 +8,19 @@ using Action = Unity.Behavior.Action;
 namespace KaijuSolutions.Agents.Behavior.Sensors
 {
     /// <summary>
-    /// Action to end a <see cref="KaijuSensor"/>.
+    /// Action to end a sensor.
     /// </summary>
     [Serializable]
     [GeneratePropertyBag]
     public abstract class KaijuSensorAction<T, T0> : Action where T : KaijuSensor where T0 : UnityEngine.Object
     {
         /// <summary>
-        /// The original <see cref="KaijuSensor.automatic"/> setting.
+        /// The original sensor automatic setting.
         /// </summary>
         private bool _original;
         
         /// <summary>
-        /// The <see cref="KaijuSensor"/> this is for.
+        /// The sensor this is for.
         /// </summary>
         [Tooltip("The sensor to read from. If it is not assigned, will try to find the first sensor of this type on of the first agent variable found.")]
         [SerializeReference]

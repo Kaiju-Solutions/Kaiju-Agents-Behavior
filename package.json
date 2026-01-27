@@ -1,7 +1,7 @@
 {
     "name": "com.kaijusolutions.agents.behavior",
     "displayName":"Kaiju Agents Behavior",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "6000.3",
     "description": "Integration for the Unity Behavior package with Kaiju Agents.",
     "dependencies": {

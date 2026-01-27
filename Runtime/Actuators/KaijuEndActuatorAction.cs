@@ -6,7 +6,7 @@ using Unity.Properties;
 namespace KaijuSolutions.Agents.Behavior.Actuators
 {
     /// <summary>
-    /// Action to end a <see cref="KaijuActuator"/>.
+    /// Action to end a actuator.
     /// </summary>
     [Serializable]
     [GeneratePropertyBag]

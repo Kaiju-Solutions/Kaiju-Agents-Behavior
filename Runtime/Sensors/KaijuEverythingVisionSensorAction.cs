@@ -7,7 +7,7 @@ using UnityEngine;
 namespace KaijuSolutions.Agents.Behavior.Sensors
 {
     /// <summary>
-    /// Action to sense with a <see cref="KaijuEverythingVisionSensor"/> which could have multiple readings of <see href="https://docs.unity3d.com/Manual/class-transform.html">transform</see>s.
+    /// Action to sense with an everything vision sensor which could have multiple readings of <see href="https://docs.unity3d.com/Manual/class-transform.html">transform</see>s.
     /// </summary>
     [Serializable]
     [GeneratePropertyBag]

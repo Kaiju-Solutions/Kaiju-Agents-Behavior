@@ -6,7 +6,7 @@ using Unity.Properties;
 namespace KaijuSolutions.Agents.Behavior.Actuators
 {
     /// <summary>
-    /// Action to run a <see cref="KaijuActuator"/>.
+    /// Action to run a actuator.
     /// </summary>
     [Serializable]
     [GeneratePropertyBag]
