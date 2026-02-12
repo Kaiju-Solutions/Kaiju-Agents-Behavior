@@ -30,6 +30,14 @@ This will pull directly from the main branch, and is not recommended unless ther
 https://github.com/Kaiju-Solutions/Kaiju-Agents-Behavior.git?path=/Packages/com.kaijusolutions.agents.behavior
 ```
 
+#### Updating
+
+- **You should first [update Kaiju Agents](https://agents.kaijusolutions.ca#updating "Kaiju Agents Updating").**
+- **Important:** Kaiju Agents Behavior and any other Git-installed packages in your Unity project will not appear as needing updates under the `Updates` tab, and hence why you need to manually choose to update.
+- **Recommended:** Delete all existing [samples and exercises](https://agents.kaijusolutions.ca/manual/samples-and-exercises.html "Samples and Exercises") from your project's `Assets` folder.
+- In Unity, from the top menu, go to `Window > Package Management > Package Manager` and select `In Project`.
+- Select `Kaiju Agents Behavior` and click the `Manage` button followed by `Update`.
+
 ## Samples and Exercises
 
 Nodes have been created for the ["Microbes"](https://agents.kaijusolutions.ca/manual/microbes.html "Microbes") and ["Capture the Flag"](https://agents.kaijusolutions.ca/manual/capture-the-flag.html "Capture the Flag") exercises of [Kaiju Agents](https://agents.kaijusolutions.ca "Kaiju Agents"). Additionally, a sample graph for [Unity Behavior](https://docs.unity3d.com/Packages/com.unity.behavior@latest "Unity Behavior") has been created for the ["Box Destroyer" sample](https://agents.kaijusolutions.ca/manual/samples-and-exercises.html#box-destroyer "Box Destroyer"). To get started with this:
