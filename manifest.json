@@ -976,7 +976,7 @@
       "output": {
         ".html": {
           "relative_path": "changelog/index.html",
-          "hash": "VTzdQgMLjSM730eExstkOAk7zZsErdZ/ZpXIDGEFBSc="
+          "hash": "X4ias76zgSiwtDwj06X1pO8U38LxbnCo7tHTHU83uCc="
         }
       },
       "is_incremental": false,
@@ -1011,7 +1011,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "tl45LnbWlELQuKdco7mj1pf9KQ62iUDzd9GE+4QIkK4="
+          "hash": "O7F+T72WBgIpc5Vn2+yY95uiZQuMaaGB6AlO046XK/I="
         }
       },
       "is_incremental": false,
