@@ -3100,7 +3100,7 @@ GameObject:
   - component: {fileID: 1884755501}
   - component: {fileID: 1884755500}
   - component: {fileID: 1884755502}
-  - component: {fileID: 1884755504}
+  - component: {fileID: 1884755503}
   m_Layer: 0
   m_Name: Agent
   m_TagString: Untagged
@@ -3172,7 +3172,7 @@ MonoBehaviour:
   - matchers:
     - match: Box
       mode: 2
---- !u!114 &1884755504
+--- !u!114 &1884755503
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3186,14 +3186,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Behavior::Unity.Behavior.BehaviorGraphAgent
   m_Graph: {fileID: -9075604402024534963, guid: 148668b89da66d64c9afa2a5373085b3, type: 2}
   m_BlackboardVariableOverridesList:
-  - rid: 1697539880857108814
-  m_OriginalGraph: {fileID: -9075604402024534963, guid: 148668b89da66d64c9afa2a5373085b3, type: 2}
+  - rid: 8314911840765739242
+  m_OriginalGraph: {fileID: 0}
   m_IsInitialised: 0
   m_IsStarted: 0
   references:
     version: 2
     RefIds:
-    - rid: 1697539880857108814
+    - rid: 8314911840765739242
       type: {class: 'BlackboardVariable`1[[UnityEngine.GameObject, UnityEngine.CoreModule]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:

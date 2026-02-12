@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Behavior::Unity.Behavior.BehaviorGraph
   Graphs:
   - rid: 1697539880857108783
-  m_DebugInfo: {fileID: 0}
+  m_DebugInfo: {fileID: 9188659740926928663}
   m_WasCompileWithPlaceholderNode: 0
   references:
     version: 2
@@ -27,31 +27,19 @@ MonoBehaviour:
         AuthoringAssetID:
           m_Value0: 7236623372588189204
           m_Value1: 12935798520251854793
-        m_DebugInfo: {fileID: 0}
+        m_DebugInfo: {fileID: 9188659740926928663}
         BlackboardReference:
           rid: 1697539880857108784
         BlackboardGroupReferences: []
         Root:
-          rid: 1697539909138776278
-        m_ActiveNodes: []
-        m_NodesToTick: []
-        m_NodesToEnd:
-          rid: 1697539880857108786
-        m_EndedNodes:
-          rid: 1697539880857108787
-        m_VersionTimestamp: 639050392329278760
+          rid: 8314911840765739244
+        m_VersionTimestamp: 639065079466904085
     - rid: 1697539880857108784
       type: {class: BlackboardReference, ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         m_Blackboard:
           rid: 1697539880857108788
         m_Source: {fileID: -6234250546875720758}
-    - rid: 1697539880857108786
-      type: {class: 'Stack`1[[Unity.Behavior.Node, Unity.Behavior]]', ns: System.Collections.Generic, asm: mscorlib}
-      data: 
-    - rid: 1697539880857108787
-      type: {class: 'HashSet`1[[Unity.Behavior.Node, Unity.Behavior]]', ns: System.Collections.Generic, asm: System.Core}
-      data: 
     - rid: 1697539880857108788
       type: {class: Blackboard, ns: Unity.Behavior, asm: Unity.Behavior}
       data:
@@ -74,7 +62,7 @@ MonoBehaviour:
           m_Value1: 11031740397460164968
         Name: Box
         m_Value: {fileID: 0}
-    - rid: 1697539909138776278
+    - rid: 8314911840765739244
       type: {class: Start, ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         ID:
@@ -85,10 +73,10 @@ MonoBehaviour:
         m_Parent:
           rid: -2
         m_Child:
-          rid: 1697539909138776279
+          rid: 8314911840765739245
         Repeat: 1
         AllowMultipleRepeatsPerTick: 0
-    - rid: 1697539909138776279
+    - rid: 8314911840765739245
       type: {class: SequenceComposite, ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         ID:
@@ -97,15 +85,16 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776278
+          rid: 8314911840765739244
         m_Children:
-        - rid: 1697539909138776280
-        - rid: 1697539909138776281
-        - rid: 1697539909138776282
-        - rid: 1697539909138776283
-        - rid: 1697539909138776284
-        - rid: 1697539909138776285
-    - rid: 1697539909138776280
+        - rid: 8314911840765739246
+        - rid: 8314911840765739247
+        - rid: 8314911840765739248
+        - rid: 8314911840765739249
+        - rid: 8314911840765739250
+        - rid: 8314911840765739251
+        m_RegisteredObservers: []
+    - rid: 8314911840765739246
       type: {class: SucceederModifier, ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         ID:
@@ -114,10 +103,10 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776279
+          rid: 8314911840765739245
         m_Child:
-          rid: 1697539909138776286
-    - rid: 1697539909138776281
+          rid: 8314911840765739252
+    - rid: 8314911840765739247
       type: {class: ParallelAllComposite, ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         ID:
@@ -126,11 +115,12 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776279
+          rid: 8314911840765739245
         m_Children:
-        - rid: 1697539909138776287
-        - rid: 1697539909138776288
-    - rid: 1697539909138776282
+        - rid: 8314911840765739253
+        - rid: 8314911840765739254
+        m_RegisteredObservers: []
+    - rid: 8314911840765739248
       type: {class: KaijuEverythingVisionSensorAction, ns: KaijuSolutions.Agents.Behavior.Sensors, asm: com.kaijusolutions.agents.behavior}
       data:
         ID:
@@ -139,14 +129,14 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776279
+          rid: 8314911840765739245
         sensor:
-          rid: 1697539909138776289
+          rid: 8314911840765739255
         observed:
           rid: 1697539903542526075
         nearest:
-          rid: 1697539909138776290
-    - rid: 1697539909138776283
+          rid: 8314911840765739256
+    - rid: 8314911840765739249
       type: {class: SucceederModifier, ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         ID:
@@ -155,10 +145,10 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776279
+          rid: 8314911840765739245
         m_Child:
-          rid: 1697539909138776291
-    - rid: 1697539909138776284
+          rid: 8314911840765739257
+    - rid: 8314911840765739250
       type: {class: ParallelAllComposite, ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         ID:
@@ -167,11 +157,12 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776279
+          rid: 8314911840765739245
         m_Children:
-        - rid: 1697539909138776292
-        - rid: 1697539909138776293
-    - rid: 1697539909138776285
+        - rid: 8314911840765739258
+        - rid: 8314911840765739259
+        m_RegisteredObservers: []
+    - rid: 8314911840765739251
       type: {class: KaijuRunActuatorAction, ns: KaijuSolutions.Agents.Behavior.Actuators, asm: com.kaijusolutions.agents.behavior}
       data:
         ID:
@@ -180,10 +171,10 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776279
+          rid: 8314911840765739245
         actuator:
-          rid: 1697539909138776294
-    - rid: 1697539909138776286
+          rid: 8314911840765739260
+    - rid: 8314911840765739252
       type: {class: KaijuStopAction, ns: KaijuSolutions.Agents.Behavior.Movement, asm: com.kaijusolutions.agents.behavior}
       data:
         ID:
@@ -192,10 +183,10 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776280
+          rid: 8314911840765739246
         agent:
-          rid: 1697539909138776295
-    - rid: 1697539909138776287
+          rid: 8314911840765739261
+    - rid: 8314911840765739253
       type: {class: KaijuWanderAction, ns: KaijuSolutions.Agents.Behavior.Movement, asm: com.kaijusolutions.agents.behavior}
       data:
         ID:
@@ -204,14 +195,14 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776281
+          rid: 8314911840765739247
         agent:
-          rid: 1697539909138776296
+          rid: 8314911840765739262
         configuration:
-          rid: 1697539909138776297
+          rid: 8314911840765739263
         wander:
-          rid: 1697539909138776298
-    - rid: 1697539909138776288
+          rid: 8314911840765739264
+    - rid: 8314911840765739254
       type: {class: KaijuObstacleAvoidanceAction, ns: KaijuSolutions.Agents.Behavior.Movement, asm: com.kaijusolutions.agents.behavior}
       data:
         ID:
@@ -220,14 +211,14 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776281
+          rid: 8314911840765739247
         agent:
-          rid: 1697539909138776299
+          rid: 8314911840765739265
         configuration:
-          rid: 1697539909138776300
+          rid: 8314911840765739266
         avoidObstacles:
-          rid: 1697539909138776301
-    - rid: 1697539909138776289
+          rid: 8314911840765739267
+    - rid: 8314911840765739255
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.Sensors.KaijuEverythingVisionSensor, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -235,7 +226,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776290
+    - rid: 8314911840765739256
       type: {class: 'BlackboardVariable`1[[System.Boolean, mscorlib]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -243,7 +234,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: 1
-    - rid: 1697539909138776291
+    - rid: 8314911840765739257
       type: {class: KaijuStopAction, ns: KaijuSolutions.Agents.Behavior.Movement, asm: com.kaijusolutions.agents.behavior}
       data:
         ID:
@@ -252,10 +243,10 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776283
+          rid: 8314911840765739249
         agent:
-          rid: 1697539909138776302
-    - rid: 1697539909138776292
+          rid: 8314911840765739268
+    - rid: 8314911840765739258
       type: {class: KaijuLookAction, ns: KaijuSolutions.Agents.Behavior.Movement, asm: com.kaijusolutions.agents.behavior}
       data:
         ID:
@@ -264,12 +255,12 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776284
+          rid: 8314911840765739250
         agent:
-          rid: 1697539909138776303
+          rid: 8314911840765739269
         target:
           rid: 1697539903542526075
-    - rid: 1697539909138776293
+    - rid: 8314911840765739259
       type: {class: KaijuSeekAction, ns: KaijuSolutions.Agents.Behavior.Movement, asm: com.kaijusolutions.agents.behavior}
       data:
         ID:
@@ -278,16 +269,16 @@ MonoBehaviour:
         Graph:
           rid: 1697539880857108783
         m_Parent:
-          rid: 1697539909138776284
+          rid: 8314911840765739250
         agent:
-          rid: 1697539909138776304
+          rid: 8314911840765739270
         configuration:
-          rid: 1697539909138776305
+          rid: 8314911840765739271
         target:
           rid: 1697539903542526075
         seek:
-          rid: 1697539909138776306
-    - rid: 1697539909138776294
+          rid: 8314911840765739272
+    - rid: 8314911840765739260
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.Actuators.KaijuActuator, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -295,7 +286,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776295
+    - rid: 8314911840765739261
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.KaijuAgent, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -303,7 +294,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776296
+    - rid: 8314911840765739262
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.KaijuAgent, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -311,7 +302,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776297
+    - rid: 8314911840765739263
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.Movement.KaijuMovementConfiguration, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -319,7 +310,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776298
+    - rid: 8314911840765739264
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.Behavior.Movement.KaijuMovementReference, com.kaijusolutions.agents.behavior]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -327,7 +318,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776299
+    - rid: 8314911840765739265
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.KaijuAgent, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -335,7 +326,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776300
+    - rid: 8314911840765739266
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.Movement.KaijuMovementConfiguration, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -343,7 +334,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776301
+    - rid: 8314911840765739267
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.Behavior.Movement.KaijuMovementReference, com.kaijusolutions.agents.behavior]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -351,7 +342,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776302
+    - rid: 8314911840765739268
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.KaijuAgent, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -359,7 +350,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776303
+    - rid: 8314911840765739269
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.KaijuAgent, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -367,7 +358,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776304
+    - rid: 8314911840765739270
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.KaijuAgent, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -375,7 +366,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776305
+    - rid: 8314911840765739271
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.Movement.KaijuMovementConfiguration, com.kaijusolutions.agents]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -383,7 +374,7 @@ MonoBehaviour:
           m_Value1: 0
         Name: 
         m_Value: {fileID: 0}
-    - rid: 1697539909138776306
+    - rid: 8314911840765739272
       type: {class: 'BlackboardVariable`1[[KaijuSolutions.Agents.Behavior.Movement.KaijuMovementReference, com.kaijusolutions.agents.behavior]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
         GUID:
@@ -466,8 +457,8 @@ MonoBehaviour:
   - rid: 1697539883129897378
   - rid: 1697539883129897449
   - rid: 1697539883129897492
-  m_VersionTimestamp: 639050392329278760
-  m_SerializedVersion: 1
+  m_VersionTimestamp: 639065079466904085
+  m_SerializedVersion: 2
   m_DebugInfo: {fileID: 9188659740926928663}
   m_RuntimeGraph: {fileID: -9075604402024534963}
   AssetID:
