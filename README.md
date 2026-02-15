@@ -10,7 +10,7 @@ This extension provides to nodes for accessing the [movement](https://agents.kai
 
 1. [Install Kaiju Agents](https://agents.kaijusolutions.ca/#installation "Kaiju Agents Installation Instructions").
 2. In your Unity project, from the top menu, go to `Window > Package Management > Package Manager` and click the `+` icon in the top left followed by `Install package from git URL...`.
-5. Paste in one of the below options:
+3. Paste in one of the below options:
 
 #### Latest Release - Recommended
 
@@ -44,6 +44,6 @@ Nodes have been created for the ["Microbes"](https://agents.kaijusolutions.ca/ma
 
 1. Import the ["Box Destroyer" sample](https://agents.kaijusolutions.ca/manual/samples-and-exercises.html#box-destroyer "Box Destroyer") from [Kaiju Agents](https://agents.kaijusolutions.ca "Kaiju Agents").
 2. Import the "Box Destroyer" sample of "Kaiju Agents Behaviour".
-3. Find the imported core  [Kaiju Agents](https://agents.kaijusolutions.ca "Kaiju Agents") assets of the ["Box Destroyer" sample](https://agents.kaijusolutions.ca/manual/samples-and-exercises.html#box-destroyer "Box Destroyer").
+3. Find the imported core [Kaiju Agents](https://agents.kaijusolutions.ca "Kaiju Agents") assets of the ["Box Destroyer" sample](https://agents.kaijusolutions.ca/manual/samples-and-exercises.html#box-destroyer "Box Destroyer").
 4. Select the "Box Destroyer Configuration" and uncheck the "Clear" field.
 5. Open the "Box Destroyer" scene and select the "Agent". Remove its "BoxDestroyerController" component. Add a "Behavior Graph" component and assign the imported "Box Destroyer" graph asset to the "Behavior Graph" field.

@@ -56,6 +56,6 @@ jobs:
           body: |            
             To install this package in Unity, add the following URL to Package Manager:
             `https://github.com/Kaiju-Solutions/Kaiju-Agents.git?path=/Packages/com.kaijusolutions.agents.behavior#${{ github.ref_name }}`
-            See release notes at: [https://behavior.kaijusolutions.ca/changelog](https://behavior.kaijusolutions.ca/changelog "Kaiju Agents Changelog")
+            See release notes at: [https://behavior.kaijusolutions.ca/changelog](https://behavior.kaijusolutions.ca/changelog "Kaiju Agents Behavior Changelog")
           generate_release_notes: false
           draft: false
