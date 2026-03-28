@@ -2,16 +2,38 @@ function filterAffix() {
   var input = document.getElementById('affix-filter');
   if (!input) return;
   var filter = input.value.toUpperCase();
-  var items = document.querySelectorAll('#affix ul li');
+  var allItems = document.querySelectorAll('#affix ul li');
   
-  for (var i = 0; i < items.length; i++) {
-    var a = items[i].querySelector('a');
+  // Initially show everything if filter is empty
+  if (filter === "") {
+    for (var i = 0; i < allItems.length; i++) {
+      allItems[i].style.display = "";
+    }
+    return;
+  }
+
+  // Hide everything first
+  for (var i = 0; i < allItems.length; i++) {
+    allItems[i].style.display = "none";
+  }
+
+  // Show matching items and their parents
+  for (var i = 0; i < allItems.length; i++) {
+    var item = allItems[i];
+    var a = item.querySelector('a');
     if (a) {
       var txtValue = a.textContent || a.innerText;
       if (txtValue.toUpperCase().indexOf(filter) > -1) {
-        items[i].style.display = "";
-      } else {
-        items[i].style.display = "none";
+        // Show this item
+        item.style.display = "";
+        // Show all parent li elements to ensure the path to the matching item is visible
+        var parent = item.parentElement;
+        while (parent && parent.id !== 'affix') {
+          if (parent.tagName === 'LI') {
+            parent.style.display = "";
+          }
+          parent = parent.parentElement;
+        }
       }
     }
   }
