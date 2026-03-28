@@ -112,11 +112,6 @@
         "xrefService": [
             "https://xref.docs.microsoft.com/query?uid={uid}"
         ],
-        "template": [
-            "default",
-            "modern",
-            "custom-template"
-        ],
         "dest": "../_site"
     }
 }
