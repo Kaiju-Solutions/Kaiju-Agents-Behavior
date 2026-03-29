@@ -6,7 +6,7 @@
   "description": "Integration for the Unity Behavior package with Kaiju Agents.",
   "dependencies": {
     "com.unity.behavior": "1.0.15",
-    "com.kaijusolutions.agents": "1.1.6"
+    "com.kaijusolutions.agents": "1.1.7"
   },
   "author": {
     "name": "Kaiju Solutions Inc.",

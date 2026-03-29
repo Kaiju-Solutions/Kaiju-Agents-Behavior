@@ -328,7 +328,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: com.kaijusolutions.agents::KaijuSolutions.Agents.Utilities.KaijuDeveloperUI
   width: 200
-  dynamicCameras: 0
 --- !u!1 &89395234
 GameObject:
   m_ObjectHideFlags: 0
@@ -3099,8 +3098,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1884755501}
   - component: {fileID: 1884755500}
-  - component: {fileID: 1884755502}
   - component: {fileID: 1884755503}
+  - component: {fileID: 1884755502}
   m_Layer: 0
   m_Name: Agent
   m_TagString: Untagged
@@ -3181,26 +3180,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1884755499}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0038c16c34866b4f9e25c9c0dc0f7e6, type: 3}
+  m_Script: {fileID: 11500000, guid: 9cc87f109b2e09a448086161279fde3a, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Unity.Behavior::Unity.Behavior.BehaviorGraphAgent
-  m_Graph: {fileID: -9075604402024534963, guid: 148668b89da66d64c9afa2a5373085b3, type: 2}
-  m_BlackboardVariableOverridesList:
-  - rid: 8314911840765739242
-  m_OriginalGraph: {fileID: 0}
-  m_IsInitialised: 0
-  m_IsStarted: 0
-  references:
-    version: 2
-    RefIds:
-    - rid: 8314911840765739242
-      type: {class: 'BlackboardVariable`1[[UnityEngine.GameObject, UnityEngine.CoreModule]]', ns: Unity.Behavior, asm: Unity.Behavior}
-      data:
-        GUID:
-          m_Value0: 1
-          m_Value1: 0
-        Name: Self
-        m_Value: {fileID: 1884755499}
+  m_EditorClassIdentifier: com.kaijusolutions.agents.samples.boxdestroyer::KaijuSolutions.Agents.Samples.BoxDestroyer.BoxDestroyerController
+  agent: {fileID: 1884755500}
 --- !u!1 &1910111043
 GameObject:
   m_ObjectHideFlags: 0
