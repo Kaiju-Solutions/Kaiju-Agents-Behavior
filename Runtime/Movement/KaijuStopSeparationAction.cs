@@ -6,7 +6,7 @@ using Unity.Properties;
 namespace KaijuSolutions.Agents.Behavior.Movement
 {
     /// <summary>
-    /// Action to stop all separation movements of a <see cref="KaijuAgentAction.agent"/>.
+    /// Action to stop all separation movements of a <see cref="KaijuAgentGraphAction.agent"/>.
     /// </summary>
     [Serializable]
     [GeneratePropertyBag]

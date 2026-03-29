@@ -1,7 +1,6 @@
 ﻿using System;
 using Unity.Behavior;
 using Unity.Properties;
-using UnityEngine;
 
 namespace KaijuSolutions.Agents.Behavior
 {

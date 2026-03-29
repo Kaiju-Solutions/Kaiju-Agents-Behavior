@@ -1,12 +1,11 @@
 ﻿using System;
-using KaijuSolutions.Agents.Actuators;
 using Unity.Behavior;
 using Unity.Properties;
 
 namespace KaijuSolutions.Agents.Behavior.Actuators
 {
     /// <summary>
-    /// Action to end a actuator.
+    /// Action to end an actuator.
     /// </summary>
     [Serializable]
     [GeneratePropertyBag]

@@ -1,12 +1,11 @@
 ﻿using System;
-using KaijuSolutions.Agents.Actuators;
 using Unity.Behavior;
 using Unity.Properties;
 
 namespace KaijuSolutions.Agents.Behavior.Actuators
 {
     /// <summary>
-    /// Action to run a actuator.
+    /// Action to run an actuator.
     /// </summary>
     [Serializable]
     [GeneratePropertyBag]
