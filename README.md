@@ -1,5 +1,9 @@
 ﻿# Kaiju Agents Behavior
 
+**Deprecated: This has been moved into the core [Kaiju Agents](https://agents.kaijusolutions.ca "Kaiju Agents") repository. This repository will be removed at a future date.**
+
+---
+
 **Integration for [Kaiju Agents](https://agents.kaijusolutions.ca "Kaiju Agents") with [Unity Behavior](https://docs.unity3d.com/Packages/com.unity.behavior@latest "Unity Behavior").**
 
 [![Kaiju Agents Behavior](https://behavior.kaijusolutions.ca/img/box-destroyer.png)](https://behavior.kaijusolutions.ca/#samples-and-exercises "Samples and Exercises")
